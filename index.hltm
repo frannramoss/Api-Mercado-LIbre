@@ -1,0 +1,23 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ERP Integration for Mercado Libre</title>
+</head>
+<body>
+<h1>ERP Integration for Mercado Libre</h1>
+<p>
+This application connects a company's ERP system with Mercado Libre.
+It publishes and updates product listings, receives sales orders from
+the seller account, and sends them to the ERP for management and
+invoicing.
+</p>
+<p>
+It is an internal integration that runs on the company's local server.
+It uses OAuth 2.0 with read and write permissions and offline access
+to refresh tokens automatically.
+</p>
+</body>
+</html>
